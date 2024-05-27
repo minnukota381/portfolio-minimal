@@ -1,4 +1,3 @@
-```markdown
 # Minnu's Portfolio Website
 
 Welcome to Minnu's Portfolio Website repository! This project showcases Minnu's skills, projects, and professional profile in a personal portfolio format.
