@@ -50,7 +50,3 @@ This portfolio website includes several sections:
 - **Contact**: Provides a contact form and other contact details for reaching out.
 
 You can navigate through the website using the navigation bar at the top.
-
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
