@@ -26,7 +26,6 @@ $(document).ready(function(){
   });
 });
 
-
 let options = {
   strings: ["Full Stack Developer", "Web Developer", "Software Developer"],
   typeSpeed: 50,
@@ -34,4 +33,5 @@ let options = {
   loop: true,
   cursorChar: "|",
 };
+
 let typed = new Typed("#typed-text span", options);
