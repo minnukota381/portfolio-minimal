@@ -33,5 +33,4 @@ let options = {
   loop: true,
   cursorChar: "|",
 };
-
 let typed = new Typed("#typed-text span", options);
